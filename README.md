@@ -1,1 +1,1 @@
-# dsAlgos
+# DS and Algo Study Notes
